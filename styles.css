@@ -934,6 +934,12 @@ footer .credit {
     display: none;
   }
 
+  #intro .city-banner {
+    height: auto;
+    min-height: 0;
+    aspect-ratio: 3 / 2;
+  }
+
   .city-banner-content {
     padding: 0 2rem 3rem;
   }
